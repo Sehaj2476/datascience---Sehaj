@@ -1,2 +1,4 @@
 # datascience---Sehaj
-Passionate Data Science Student 
+Passion - Data Science 
+Author - Sehaj
+
